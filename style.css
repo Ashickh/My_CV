@@ -1,0 +1,13 @@
+img{
+    height: 350px;
+    border-radius: 100px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+html,body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Roboto", sans-serif
+}
+
+.w3-round-xlarge{
+    height: 25px;
+}
